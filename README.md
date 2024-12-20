@@ -14,5 +14,4 @@ Here are some ideas to get you started:
 - 🔭 Working on: Currently, I'm modeling railway ballast to better simulate data acquisition using GPR.
 - 🌱 Learning: I'm diving into creative programming with py5 and mastering LaTeX for academic writing.
 - 👯 Collaborations: Not actively seeking, but open to interesting opportunities.
-- 😄 Pronouns: She/Her. Proud ally 🏳️‍🌈!
-- ⚡ Fun Facts: Native in Portuguese, advanced in English, and some knowledge of Hungarian; I have a great sense of direction; Big fan of llamas; Always up for a silly joke.
+- ⚡ Fun Facts: Native in Portuguese, advanced in English, learning Spanish and some knowledge of Hungarian; I have a great sense of direction; Big fan of llamas; Always up for a silly joke.
